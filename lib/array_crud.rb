@@ -19,9 +19,9 @@ create_an_array.unshift("wow")
   
 end
 
-def remove_element_from_end_of_array(array)
+def remove_element_from_end_of_array(create_an_array)
 
-add_element_to_end_of_array.pop
+
   
 end
 
