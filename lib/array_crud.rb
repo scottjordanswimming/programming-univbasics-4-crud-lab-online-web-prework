@@ -33,7 +33,7 @@ end
 
 def retrieve_element_from_index(array, index_number)
   
-  create_an_array[2]
+  array[2]
   
 end
 
