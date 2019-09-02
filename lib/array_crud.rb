@@ -21,7 +21,7 @@ end
 
 def remove_element_from_end_of_array(array)
 
-add_element_to_start_of_array.pop
+add_element_to_start_of_array[5]
   
 end
 
