@@ -27,7 +27,7 @@ end
 
 def remove_element_from_start_of_array(create_an_array)
   
-  create_an_array.pop.shift
+  create_an_array.shift
 
 end
 
