@@ -31,7 +31,9 @@ def remove_element_from_start_of_array(create_an_array)
 
 end
 
-def retrieve_element_from_index(array, index_number)
+def retrieve_element_from_index(create_an_array, 2)
+  
+  
   
 end
 
